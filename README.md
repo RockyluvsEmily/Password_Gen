@@ -16,7 +16,7 @@ Create a simple application that allows you to generate a random password. This 
 
 live URL: https://rockyluvsemily.github.io/Password_Gen/
 <br>
-GitHub Repo URL:https://github.com/RockyluvsEmily/DAY_JS/tree/main
+GitHub Repo URL:https://github.com/RockyluvsEmily/Password_Gen/tree/main
 
 ## Author
 Dewayne Cavendish
